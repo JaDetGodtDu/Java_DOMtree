@@ -6,5 +6,6 @@ public class Main {
         htag.setText("Jeg er et h-tag");
 
         System.out.println(htag);
+        System.out.println(("Hello Github!"));
     }
 }
